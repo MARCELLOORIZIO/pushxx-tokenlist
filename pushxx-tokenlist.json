@@ -1,0 +1,19 @@
+{
+  "name": "PushXX Token List",
+  "timestamp": "2025-05-27T10:30:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x9d11b208d53E2757f785bF06F5137db7274F062c",
+      "name": "PushUp Wrapped Token",
+      "symbol": "PUSHXX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/MARCELLOORIZIO/pushxx-tokenlist/main/assets/pushxx-logo.png"
+    }
+  ]
+}
